@@ -25,7 +25,9 @@ Libraries:
           SciPy: For statistical analysis.
 
 
+
 🔍 𝐊𝐞𝐲 𝐒𝐭𝐞𝐩𝐬:
+
 
 Data Preparation: Loaded the dataset, checked for missing values, and handled outliers.
 
@@ -36,7 +38,9 @@ Bivariate Analysis: Explored relationships between pairs of variables.
 Multivariate Analysis: Used heatmaps and pair plots to discover patterns and relationships among multiple variables.
 
 
+
 📊 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬:
+
 
 Target Variable: 165 patients have heart disease, while 138 do not.
 
@@ -45,11 +49,15 @@ Correlation: Variables like chest pain type (cp) and maximum heart rate (thalach
 Visualization: Various plots confirm the findings and help in understanding the data distribution and relationships.
 
 
+
 🏁 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧:
+
 
 The EDA provided valuable insights into the heart disease dataset, highlighting key factors that contribute to heart disease. These findings can inform future research and improve patient outcomes through better data-driven decision-making1.
 
 
+
 🌐 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧:
+
 
 The insights gained from this analysis can assist healthcare professionals in early detection and management of heart disease, ultimately improving patient care and outcomes.
