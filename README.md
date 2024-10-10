@@ -13,10 +13,15 @@ This project focuses on performing an in-depth Exploratory Data Analysis (EDA) o
 Programming Language: Python 
 
 Libraries:
+
           NumPy: For numerical operations.
+          
           Pandas: For data manipulation and analysis.
+          
           Seaborn: For data visualization.
+          
           Matplotlib: For plotting graphs.
+          
           SciPy: For statistical analysis.
 
 
