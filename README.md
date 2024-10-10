@@ -9,8 +9,7 @@ This project focuses on performing an in-depth Exploratory Data Analysis (EDA) o
 
 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 
 
-Programming Language: Python 
-
+Programming Language: Python <br>
 Libraries:
 
           NumPy: For numerical operations.
@@ -27,25 +26,20 @@ Libraries:
 
 🔍 𝐊𝐞𝐲 𝐒𝐭𝐞𝐩𝐬:
 
-
 Data Preparation: Loaded the dataset, checked for missing values, and handled outliers.<br>
 Univariate Analysis: Analyzed the distribution of individual variables.<br>
 Bivariate Analysis: Explored relationships between pairs of variables.<br>
 Multivariate Analysis: Used heatmaps and pair plots to discover patterns and relationships among multiple variables.<br>
 
 
-
 📊 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬:
-
 
 Target Variable: 165 patients have heart disease, while 138 do not.<br>
 Correlation: Variables like chest pain type (cp) and maximum heart rate (thalach) show mild positive correlation with heart disease.<br>
 Visualization: Various plots confirm the findings and help in understanding the data distribution and relationships.<br>
 
 
-
 🏁 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧:
-
 
 The EDA provided valuable insights into the heart disease dataset, highlighting key factors that contribute to heart disease. These findings can inform future research and improve patient outcomes through better data-driven decision-making1.
 
