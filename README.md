@@ -1,4 +1,3 @@
-# HealthcareDomain
 
 # 🎗️ 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐩𝐨𝐭𝐥𝐢𝐠𝐡𝐭: 𝐇𝐞𝐚𝐫𝐭 𝐃𝐢𝐬𝐞𝐚𝐬𝐞 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 🔍
 
@@ -29,24 +28,19 @@ Libraries:
 🔍 𝐊𝐞𝐲 𝐒𝐭𝐞𝐩𝐬:
 
 
-Data Preparation: Loaded the dataset, checked for missing values, and handled outliers.
-
-Univariate Analysis: Analyzed the distribution of individual variables.
-
-Bivariate Analysis: Explored relationships between pairs of variables.
-
-Multivariate Analysis: Used heatmaps and pair plots to discover patterns and relationships among multiple variables.
+Data Preparation: Loaded the dataset, checked for missing values, and handled outliers.<br>
+Univariate Analysis: Analyzed the distribution of individual variables.<br>
+Bivariate Analysis: Explored relationships between pairs of variables.<br>
+Multivariate Analysis: Used heatmaps and pair plots to discover patterns and relationships among multiple variables.<br>
 
 
 
 📊 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬:
 
 
-Target Variable: 165 patients have heart disease, while 138 do not.
-
-Correlation: Variables like chest pain type (cp) and maximum heart rate (thalach) show mild positive correlation with heart disease.
-
-Visualization: Various plots confirm the findings and help in understanding the data distribution and relationships.
+Target Variable: 165 patients have heart disease, while 138 do not.<br>
+Correlation: Variables like chest pain type (cp) and maximum heart rate (thalach) show mild positive correlation with heart disease.<br>
+Visualization: Various plots confirm the findings and help in understanding the data distribution and relationships.<br>
 
 
 
