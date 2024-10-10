@@ -28,15 +28,20 @@ Libraries:
 🔍 𝐊𝐞𝐲 𝐒𝐭𝐞𝐩𝐬:
 
 Data Preparation: Loaded the dataset, checked for missing values, and handled outliers.
+
 Univariate Analysis: Analyzed the distribution of individual variables.
+
 Bivariate Analysis: Explored relationships between pairs of variables.
+
 Multivariate Analysis: Used heatmaps and pair plots to discover patterns and relationships among multiple variables.
 
 
 📊 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬:
 
 Target Variable: 165 patients have heart disease, while 138 do not.
+
 Correlation: Variables like chest pain type (cp) and maximum heart rate (thalach) show mild positive correlation with heart disease.
+
 Visualization: Various plots confirm the findings and help in understanding the data distribution and relationships.
 
 
